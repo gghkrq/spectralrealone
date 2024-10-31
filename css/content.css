@@ -1,0 +1,214 @@
+body {
+    width: 1440px;
+    margin: auto;
+    background-color: rgb(165, 165, 165);
+}
+
+.tv1{
+    background-image: url("../img/pic1.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 910px;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+
+.titl {
+    height: 500px;
+    margin-bottom: 160px;
+}
+    
+.tv2 {
+    width: 100%;
+    height: 910px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ekran2{
+    background-image: url("../img/dadya.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1378px;
+    height: 100%;
+    border-radius: 70px 0px 0px 70px;
+    margin-left: 80px;
+}
+
+.creator{ 
+    width: 800px;
+    height: 200px;
+    margin-top: 680px;
+    margin-left: 60px;
+}
+
+.tv3{
+    background-image: url("../img/pic3.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 950px;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+
+.tv4 {
+    width: 100%;
+    height: 910px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ekran3{
+    background-image: url("../img/notdadya.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1378px;
+    height: 100%;
+    border-radius: 0px 70px 70px 0px;
+    margin-right: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+p1{ 
+    font-family: Spectral-ExtraBoldItalic;
+    color: #646464;
+    font-size: 550px;
+    margin-top: 220px;
+}
+
+p2{ 
+    font-family: Spectral-BoldItalic;
+    color: #646464;
+    font-size: 550px;
+    margin-top: 220px;}
+
+
+p3{ 
+    font-family: Spectral-Italic;
+    color: #646464;
+    font-size: 550px;
+    margin-top: 220px;
+}
+
+.tv5{
+    background-image: url("../img/pic5.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 950px;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+
+.tv6{
+    width: 100%;
+    height: 910px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ekran4{
+    background-image: url("../img/pic7.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1378px;
+    height: 100%;
+    border-radius: 70px 0px 0px 70px;
+    margin-left: 80px;
+}
+
+.tv7{
+    background-image: url("../img/pic9.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 950px;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+
+.tv8{
+    width: 100%;
+    height: 910px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ekran5{
+    background-image: url("../img/pic11.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1378px;
+    height: 100%;
+    border-radius: 0px 70px 70px 0px;
+    margin-right: 80px;
+}
+
+.tv9{
+    background-image: url("../img/pic13.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 950px;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+
+.tv10{
+    background-image: url("../img/theend.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 250px;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
